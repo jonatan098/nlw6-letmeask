@@ -18,3 +18,8 @@
 
 ### Tela do Admin
 ![alt text](https://github.com/jonatan098/nlw6-letmeask/blob/main/docs/AdminScreen.png)
+
+## Como executar
+* git clone (url do projeto)
+* yarn
+* yarn start
